@@ -30,7 +30,6 @@ const Navbar = () => {
         >
           projects
         </NavLink>
-<<<<<<< HEAD
         <NavLink
           to="/contact"
           className={({ isActive }) =>
@@ -39,8 +38,6 @@ const Navbar = () => {
         >
           Contact
         </NavLink>
-=======
->>>>>>> f892f509162609e74168641ae65384da2ec44323
       </nav>
     </header>
   );

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState } from 'react'
 import emailjs from "@emailjs/browser";
 
@@ -65,13 +64,6 @@ function Contact() {
 
       </form>
     </section>
-=======
-import React from 'react'
-
-function Contact() {
-  return (
-    <section className='relative flex lg:flex-row flex-col max-container '></section>
->>>>>>> f892f509162609e74168641ae65384da2ec44323
   )
 }
 
