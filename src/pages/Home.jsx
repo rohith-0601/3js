@@ -75,8 +75,8 @@ function Home() {
             setCurrentStage={setcurentstage}
           />
           <Plane isRotating={isrotating}
-          planeScale={planescale}
-          planePosition = {planepositon}
+          scale={planescale}
+          position = {planepositon}
           rotation={[0,20,0]}/>
         </Suspense>
       </Canvas>
