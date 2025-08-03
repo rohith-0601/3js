@@ -10,13 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@emailjs/browser": "^4.4.1",
-=======
->>>>>>> f892f509162609e74168641ae65384da2ec44323
     "@react-spring/three": "^10.0.1",
     "@react-three/drei": "^10.6.1",
     "@react-three/fiber": "^9.3.0",
+    "lucide-react": "^0.536.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.7.1"
